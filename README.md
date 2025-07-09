@@ -47,11 +47,10 @@ weather-app/
 ├── script.js
 ├── README.md
 │
-├── assets/
-│   ├── screenshot-before.png
-│   ├── screenshot-after.png
-│   └── demo-video.mp4
-
+└── assets/
+    ├── screenshot-before.png
+    ├── screenshot-after.png
+    └── demo-video.mp4
 
 ## 🔮 Future Improvements :-
 
