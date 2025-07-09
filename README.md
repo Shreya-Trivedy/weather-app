@@ -41,14 +41,17 @@ open index.html  # or just double-click index.html
 ## 📁 Folder Structure
 
 weather-app/
+│
 ├── index.html
 ├── style.css
 ├── script.js
+├── README.md
+│
 ├── assets/
 │   ├── screenshot-before.png
 │   ├── screenshot-after.png
 │   └── demo-video.mp4
-└── README.md
+
 
 ## 🔮 Future Improvements :-
 
