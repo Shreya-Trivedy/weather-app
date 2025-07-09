@@ -5,8 +5,7 @@ A sleek, fully functional weather app using **WeatherAPI**, built with **HTML, C
 ---
 
 ## 🚀 Live Demo
-
-🌐 [Click here to view live](https://shreya-trivedy.github.io/weather-app/)  
+ 
 📹 [Watch Full App Demo](./assets/demo-video.mp4)
 
 ---
@@ -34,22 +33,24 @@ A sleek, fully functional weather app using **WeatherAPI**, built with **HTML, C
 
 ## 🛠️ Run Locally
 
-```bash
+''' bash
 git clone https://github.com/Shreya-Trivedy/weather-app.git
 cd weather-app
 open index.html  # or just double-click index.html
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 weather-app/
 ├── index.html
+├── style.css
+├── script.js
 ├── assets/
 │   ├── screenshot-before.png
 │   ├── screenshot-after.png
 │   └── demo-video.mp4
 └── README.md
 
-🔮 Future Improvements :-
+## 🔮 Future Improvements :-
 
 📲 Convert to a Progressive Web App (PWA)
 🗺️ Add map preview of location
